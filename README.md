@@ -48,6 +48,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luanlnf/luanlnf/output/snake.svg" alt="Snake animation" />
 
-###
